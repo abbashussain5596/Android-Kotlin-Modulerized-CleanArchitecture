@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.abbas.core">
+
+    <application
+        android:allowBackup="true"
+        android:supportsRtl="true">
+                <service
+                    android:name="com.abbas.core.util.fcm.FCMService"
+                    android:exported="false">
+                    <intent-filter>
+                        <action android:name="com.google.firebase.MESSAGING_EVENT" />
+                    </intent-filter>
+                </service>
+    </application>
+
+</manifest>
