@@ -9,7 +9,7 @@ import com.abbas.core.user.data.local.UserEntity
 @Database(
     entities = [
         UserEntity::class
-    ], version = BuildConfig.DB_VERSION.toInt()
+    ], version = 1
 )
 
 abstract class AppDatabase : RoomDatabase() {
