@@ -2,7 +2,6 @@ package com.abbas.app
 
 import android.app.Application
 import com.abbas.core.util.notification.PushNotificationManager
-import com.dj.app.BuildConfig
 import dagger.hilt.android.HiltAndroidApp
 import timber.log.Timber
 

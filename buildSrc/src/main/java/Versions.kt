@@ -17,12 +17,15 @@ object Versions {
     const val retrofit2 = "2.9.0"
     const val loggingInterceptor = "4.9.0"
     const val coroutines = "1.6.0"
-    const val activityFragment = "1.4.0"
+    const val activity = "1.4.0"
+    const val fragment = "1.4.1"
     const val firebaseBom = "29.0.4"
     const val gradlePlugin = "7.0.4"
     const val kotlin = "1.6.10"
     const val googleServices = "4.3.10"
     const val firebaseCrashlytics = "2.8.1"
+    const val navVersion = "2.4.2"
+    const val splashScreen = "1.0.0-beta02"
 
 
 }

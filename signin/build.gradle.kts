@@ -130,6 +130,8 @@ dependencies {
 
 //    implementation 'androidx.databinding:databinding-runtime:7.0.4'
     implementation(Deps.dataBinding)
+    implementation("androidx.navigation:navigation-fragment-ktx:2.4.2")
+    implementation("androidx.navigation:navigation-ui-ktx:2.4.2")
 
 //    testImplementation 'junit:junit:4.+'
     testImplementation(Deps.junit)

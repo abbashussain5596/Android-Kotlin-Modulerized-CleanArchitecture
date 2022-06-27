@@ -127,6 +127,9 @@ dependencies {
 
 //    implementation 'androidx.databinding:databinding-runtime:7.0.4'
     implementation(Deps.dataBinding)
+    implementation("androidx.appcompat:appcompat:1.4.2")
+    implementation("com.google.android.material:material:1.4.0")
+    implementation("androidx.constraintlayout:constraintlayout:2.1.4")
 
 //    testImplementation 'junit:junit:4.+'
     testImplementation(Deps.junit)
@@ -179,6 +182,12 @@ dependencies {
     implementation(Deps.firebaseCrashlytics)
     implementation(Deps.firebaseAnalytics)
     implementation(Deps.firebaseMessaging)
+    implementation(Deps.navigationFragment)
+    implementation(Deps.navigationUi)
+    implementation(Deps.navigationModule)
+    androidTestImplementation(Deps.navigationTesting)
+    implementation(Deps.navigationCompose)
+    implementation(Deps.splashScreen)
 //    implementation 'com.google.firebase:firebase-analytics-ktx'
 //    implementation 'com.google.firebase:firebase-messaging-ktx'
 

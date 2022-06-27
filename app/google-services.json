@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "949742970412",
-    "project_id": "androidcleanarch",
-    "storage_bucket": "androidcleanarch.appspot.com"
+    "project_number": "451710780569",
+    "project_id": "androidmodularizedapp",
+    "storage_bucket": "androidmodularizedapp.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:949742970412:android:3a7201b63acb4a75589389",
+        "mobilesdk_app_id": "1:451710780569:android:afff3e59bbc4ad96c22408",
         "android_client_info": {
-          "package_name": "com.dj.app"
+          "package_name": "com.abbas.app"
         }
       },
       "oauth_client": [
         {
-          "client_id": "949742970412-4ahico0j1efjuh2qivrii7o8udmkjjec.apps.googleusercontent.com",
+          "client_id": "451710780569-gbtkp8meu337t4s4h1jp8t56h26ok97m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyDrKxzUtRwsvHfmIr3-0kHz4Wm-zW-YFwk"
+          "current_key": "AIzaSyChqespSenZmCDK7-Jxu3fbGz4PzqS23QU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "949742970412-4ahico0j1efjuh2qivrii7o8udmkjjec.apps.googleusercontent.com",
+              "client_id": "451710780569-gbtkp8meu337t4s4h1jp8t56h26ok97m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]

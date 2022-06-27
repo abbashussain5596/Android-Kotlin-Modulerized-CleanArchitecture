@@ -125,6 +125,8 @@ dependencies {
 //    implementation 'androidx.lifecycle:lifecycle-livedata-ktx:2.4.0'
     implementation(Deps.lifecycleLiveData)
 
+    implementation(Deps.lifecycleRuntime)
+
 //    implementation 'androidx.lifecycle:lifecycle-viewmodel-ktx:2.4.0'
     implementation(Deps.lifecycleViewModel)
 

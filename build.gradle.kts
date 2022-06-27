@@ -11,6 +11,7 @@ buildscript {
         classpath(BuildPlugins.hilt)
         classpath(BuildPlugins.googleServices)
         classpath(BuildPlugins.firebaseCrashlytics)
+//        classpath("org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10")
 //        classpath 'org.jetbrains.kotlin:kotlin-gradle-plugin:1.6.10'
 //        classpath("com.google.dagger:hilt-android-gradle-plugin:2.40")
 //        classpath 'com.google.gms:google-services:4.3.10'
